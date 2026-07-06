@@ -1,7 +1,7 @@
 ---LAB_START---
 LAB_ID: 01-00-01
 ---MARKDOWN---
-# Investigación de competidores y clientes potenciales mediante IA
+# Investigación de competidores y clientes potenciales mediante IA.
 
 ## Metadatos
 
